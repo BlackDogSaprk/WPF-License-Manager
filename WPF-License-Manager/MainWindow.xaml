@@ -14,8 +14,8 @@
         </GroupBox>
         <GroupBox Header="License Details" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,163,0,0" Width="675" Height="220">
             <Grid Height="224" Width="665" Margin="0">
-                <TextBox x:Name="TextBoxCustomer" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="579" Margin="76,14,0,0" Text="BlackDogSpark"/>
-                <TextBox x:Name="TextBoxEMail" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="579" Margin="76,45,0,0" Text="BlackDogSpark@hotmail.com"/>
+                <TextBox x:Name="TextBoxCustomer" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="579" Margin="76,14,0,0" Text="Thorsten Weiss"/>
+                <TextBox x:Name="TextBoxEMail" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="579" Margin="76,45,0,0" Text="weiss.thorsten@gmx.de"/>
                 <TextBox x:Name="TextBoxUsers" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="573" Margin="82,136,0,0" RenderTransformOrigin="0.5,0.5" Text="5" />
                 <TextBox x:Name="TextBoxAttributeName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="151" Margin="110,167,0,0" Text="Software"/>
                 <Label Content="Customer:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
